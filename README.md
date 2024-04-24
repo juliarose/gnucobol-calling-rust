@@ -5,13 +5,6 @@ A simple example of calling a dynamic library compiled from Rust in GNUCobol. Mo
 - (Rust)[https://www.rust-lang.org/tools/install]
 
 ## Building
-Build and run
 ```
 make -B
-```
-
-Build then run
-```
-make
-./caller
 ```
